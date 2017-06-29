@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{721ECC5C-62D0-4275-B53A-B926A7B6BD8F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="39" Column="17" />
+      <File FileName="Droid/MyFirebaseIDService.cs" Line="21" Column="49" />
+      <File FileName="DemoPushNotifications/DemoPushNotificationsPage.xaml.cs" Line="11" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DemoPushNotifications.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.DemoPushNotifications.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7D4F9BEA-3CF1-45E9-8952-0CA41C1DAD23" />
+</Properties>
